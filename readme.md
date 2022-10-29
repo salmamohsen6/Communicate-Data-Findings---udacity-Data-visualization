@@ -1,4 +1,4 @@
-﻿Udacity DAND: Communicate Data Findings Project
+# Communicate Data Findings Project
 
 Bay Wheels is a regional public bicycle sharing system in California's San Francisco Bay Area. It is operated by Motivate in a partnership with the Metropolitan Transportation Commission and the Bay Area Air Quality Management District.As of January 2018, the Bay Wheels system had over 2,600 bicycles in 262 stations across San Francisco, East Bay and San Jose.
 
