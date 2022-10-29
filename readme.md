@@ -6,11 +6,11 @@ In June 2017 the system was officially re-launched as Ford GoBike
 
 ## Summary of Findings
 
-Bike Ride Duration Time: duration histogram has a sharp skew - bike durations range from less than 1 minute to 1400+ minutes with a mean at 11.7min. 
+#### Bike Ride Duration Time: duration histogram has a sharp skew - bike durations range from less than 1 minute to 1400+ minutes with a mean at 11.7min. 
 
 time is big factor Most usage are during of 8-9am,and 17-18, which means they ued it commute to work
 
-## Regarding the bike ride trends and biker types: .
+#### Regarding the bike ride trends and biker types: .
 
 There are two types of clients using the system: Subscribers and Customers. Subscribers are primarily daily commuters, having short trips to and from work, who rent a bike on weekdays, usage pattern differ as many trips concentrated around 8-9am and 17-18pm on work days for subscribers when used for work commute, yet customers tend to use more in the late afternoon around 17pm Monday to Friday.
 
